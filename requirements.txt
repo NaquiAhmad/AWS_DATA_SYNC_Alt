@@ -1,0 +1,4 @@
+pip install boto3
+pip install pyspark
+pip install boto3 schedule python-dotenv pyspark
+pip install boto3 schedule
